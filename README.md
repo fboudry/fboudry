@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on anything that makes science progress (if it's fun)
 - 📫 You can reach me at felix.boudry@univ-perp.fr
 
-<!---
-fboudry/fboudry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All my work related projects can be found at <a href="https://github.com/Boudry-Felix">@Boudry-Felix</a>, and personnal project on my personal profile <a href="https://github.com/FelixBoudry">@FelixBoudry</a>.
