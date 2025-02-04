@@ -69,6 +69,5 @@
 <p align="center">
   <a href="https://boudry-felix.github.io/"><img src="https://img.shields.io/badge/-Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/f%C3%A9lix-boudry-539062172/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/felix_boudry"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:felix.boudry@univ-perp.fr"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
