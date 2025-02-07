@@ -60,7 +60,7 @@
 <h2 align="center">🏆 My Achievements</h2>
 <p align="center">
   
-  - 📈 Published **1 paper** in the field of **sport sciences**.
+  - 📈 Published **2 paper** in the field of **sport sciences**.
 </p>
 
 ---
