@@ -41,8 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fboudry&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fboudry&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboudry&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -51,7 +49,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fboudry&theme=radical" alt="GitHub Profile Summary">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fboudry&theme=radical" alt="Repos per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fboudry&theme=radical" alt="Most Commit Language">
 </p>
 
